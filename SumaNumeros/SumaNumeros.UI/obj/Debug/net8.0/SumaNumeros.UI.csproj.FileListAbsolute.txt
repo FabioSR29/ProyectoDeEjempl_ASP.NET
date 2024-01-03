@@ -1,0 +1,14 @@
+D:\proyectos net framework\SumaNumeros\SumaNumeros.UI\bin\Debug\net8.0\SumaNumeros.UI.exe
+D:\proyectos net framework\SumaNumeros\SumaNumeros.UI\bin\Debug\net8.0\SumaNumeros.UI.deps.json
+D:\proyectos net framework\SumaNumeros\SumaNumeros.UI\bin\Debug\net8.0\SumaNumeros.UI.runtimeconfig.json
+D:\proyectos net framework\SumaNumeros\SumaNumeros.UI\bin\Debug\net8.0\SumaNumeros.UI.dll
+D:\proyectos net framework\SumaNumeros\SumaNumeros.UI\bin\Debug\net8.0\SumaNumeros.UI.pdb
+D:\proyectos net framework\SumaNumeros\SumaNumeros.UI\obj\Debug\net8.0\SumaNumeros.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos net framework\SumaNumeros\SumaNumeros.UI\obj\Debug\net8.0\SumaNumeros.UI.AssemblyInfoInputs.cache
+D:\proyectos net framework\SumaNumeros\SumaNumeros.UI\obj\Debug\net8.0\SumaNumeros.UI.AssemblyInfo.cs
+D:\proyectos net framework\SumaNumeros\SumaNumeros.UI\obj\Debug\net8.0\SumaNumeros.UI.csproj.CoreCompileInputs.cache
+D:\proyectos net framework\SumaNumeros\SumaNumeros.UI\obj\Debug\net8.0\SumaNumeros.UI.dll
+D:\proyectos net framework\SumaNumeros\SumaNumeros.UI\obj\Debug\net8.0\refint\SumaNumeros.UI.dll
+D:\proyectos net framework\SumaNumeros\SumaNumeros.UI\obj\Debug\net8.0\SumaNumeros.UI.pdb
+D:\proyectos net framework\SumaNumeros\SumaNumeros.UI\obj\Debug\net8.0\SumaNumeros.UI.genruntimeconfig.cache
+D:\proyectos net framework\SumaNumeros\SumaNumeros.UI\obj\Debug\net8.0\ref\SumaNumeros.UI.dll

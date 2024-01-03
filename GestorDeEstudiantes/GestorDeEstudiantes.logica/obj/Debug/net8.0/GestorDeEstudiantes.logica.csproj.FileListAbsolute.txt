@@ -1,0 +1,11 @@
+D:\proyectos net framework\GestorDeEstudiantes\GestorDeEstudiantes.logica\bin\Debug\net8.0\GestorDeEstudiantes.logica.deps.json
+D:\proyectos net framework\GestorDeEstudiantes\GestorDeEstudiantes.logica\bin\Debug\net8.0\GestorDeEstudiantes.logica.dll
+D:\proyectos net framework\GestorDeEstudiantes\GestorDeEstudiantes.logica\bin\Debug\net8.0\GestorDeEstudiantes.logica.pdb
+D:\proyectos net framework\GestorDeEstudiantes\GestorDeEstudiantes.logica\obj\Debug\net8.0\GestorDeEstudiantes.logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos net framework\GestorDeEstudiantes\GestorDeEstudiantes.logica\obj\Debug\net8.0\GestorDeEstudiantes.logica.AssemblyInfoInputs.cache
+D:\proyectos net framework\GestorDeEstudiantes\GestorDeEstudiantes.logica\obj\Debug\net8.0\GestorDeEstudiantes.logica.AssemblyInfo.cs
+D:\proyectos net framework\GestorDeEstudiantes\GestorDeEstudiantes.logica\obj\Debug\net8.0\GestorDeEstudiantes.logica.csproj.CoreCompileInputs.cache
+D:\proyectos net framework\GestorDeEstudiantes\GestorDeEstudiantes.logica\obj\Debug\net8.0\GestorDeEstudiantes.logica.dll
+D:\proyectos net framework\GestorDeEstudiantes\GestorDeEstudiantes.logica\obj\Debug\net8.0\refint\GestorDeEstudiantes.logica.dll
+D:\proyectos net framework\GestorDeEstudiantes\GestorDeEstudiantes.logica\obj\Debug\net8.0\GestorDeEstudiantes.logica.pdb
+D:\proyectos net framework\GestorDeEstudiantes\GestorDeEstudiantes.logica\obj\Debug\net8.0\ref\GestorDeEstudiantes.logica.dll

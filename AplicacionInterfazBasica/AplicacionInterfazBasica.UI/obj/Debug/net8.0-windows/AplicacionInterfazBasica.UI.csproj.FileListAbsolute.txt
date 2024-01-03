@@ -1,0 +1,16 @@
+D:\proyectos net framework\AplicacionInterfazBasica\AplicacionInterfazBasica.UI\bin\Debug\net8.0-windows\AplicacionInterfazBasica.UI.exe
+D:\proyectos net framework\AplicacionInterfazBasica\AplicacionInterfazBasica.UI\bin\Debug\net8.0-windows\AplicacionInterfazBasica.UI.deps.json
+D:\proyectos net framework\AplicacionInterfazBasica\AplicacionInterfazBasica.UI\bin\Debug\net8.0-windows\AplicacionInterfazBasica.UI.runtimeconfig.json
+D:\proyectos net framework\AplicacionInterfazBasica\AplicacionInterfazBasica.UI\bin\Debug\net8.0-windows\AplicacionInterfazBasica.UI.dll
+D:\proyectos net framework\AplicacionInterfazBasica\AplicacionInterfazBasica.UI\bin\Debug\net8.0-windows\AplicacionInterfazBasica.UI.pdb
+D:\proyectos net framework\AplicacionInterfazBasica\AplicacionInterfazBasica.UI\obj\Debug\net8.0-windows\AplicacionInterfazBasica.UI.Form1.resources
+D:\proyectos net framework\AplicacionInterfazBasica\AplicacionInterfazBasica.UI\obj\Debug\net8.0-windows\AplicacionInterfazBasica.UI.csproj.GenerateResource.cache
+D:\proyectos net framework\AplicacionInterfazBasica\AplicacionInterfazBasica.UI\obj\Debug\net8.0-windows\AplicacionInterfazBasica.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos net framework\AplicacionInterfazBasica\AplicacionInterfazBasica.UI\obj\Debug\net8.0-windows\AplicacionInterfazBasica.UI.AssemblyInfoInputs.cache
+D:\proyectos net framework\AplicacionInterfazBasica\AplicacionInterfazBasica.UI\obj\Debug\net8.0-windows\AplicacionInterfazBasica.UI.AssemblyInfo.cs
+D:\proyectos net framework\AplicacionInterfazBasica\AplicacionInterfazBasica.UI\obj\Debug\net8.0-windows\AplicacionInterfazBasica.UI.csproj.CoreCompileInputs.cache
+D:\proyectos net framework\AplicacionInterfazBasica\AplicacionInterfazBasica.UI\obj\Debug\net8.0-windows\AplicacionInterfazBasica.UI.dll
+D:\proyectos net framework\AplicacionInterfazBasica\AplicacionInterfazBasica.UI\obj\Debug\net8.0-windows\refint\AplicacionInterfazBasica.UI.dll
+D:\proyectos net framework\AplicacionInterfazBasica\AplicacionInterfazBasica.UI\obj\Debug\net8.0-windows\AplicacionInterfazBasica.UI.pdb
+D:\proyectos net framework\AplicacionInterfazBasica\AplicacionInterfazBasica.UI\obj\Debug\net8.0-windows\AplicacionInterfazBasica.UI.genruntimeconfig.cache
+D:\proyectos net framework\AplicacionInterfazBasica\AplicacionInterfazBasica.UI\obj\Debug\net8.0-windows\ref\AplicacionInterfazBasica.UI.dll
